@@ -1,0 +1,5 @@
+# Ignore all the manga downloads
+downloads/
+
+# Ignore the virtual environment
+.venv/
